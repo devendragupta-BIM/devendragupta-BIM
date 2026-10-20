@@ -10,7 +10,7 @@
 
 <br/>
 
-<!-- Social & Action Badges -->
+<!-- Live Profile Telemetry & Social Badges -->
 <p>
   <a href="https://github.com/devendragupta-BIM">
     <img src="https://img.shields.io/badge/GitHub-Explore_The_Blueprints-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
@@ -18,6 +18,7 @@
   <a href="https://linkedin.com/in/devendra-gupta-b943b437">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Clash_Detect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=devendragupta-BIM&label=BIM_INSPECTORS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Revit_Crashes_Survived-9,999+-FF4B4B?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit Crashes" />
 </p>
 
@@ -42,7 +43,16 @@ While normal civil engineers calculate beam loads by hand, I write **Python & C#
 
 ---
 
-## 💻 `devendra_brain.ifc` — Inside My Head
+## 📟 Live AEC Automation Terminal (`devendra_os v4.2.0`)
+
+```diff
++ [SYSTEM ONLINE] Initializing Devendra's BIM & AI Neural Engine...
+! [WARNING] High levels of caffeine and Python scripts detected in bloodstream.
++ [LOADED] Revit_API_Destroyer.dll .......... 100% (0 Manual Clicks Remaining)
++ [LOADED] OpenBIM_IFC_Parser.py ............ 100% (Geometry intact, no missing walls!)
++ [LOADED] RAG_AI_Agent_n8n.json ............ 100% (Reading 500-page ISO-19650 docs in 0.4s)
+- [ERROR_404] "Patience for Manual Drafting" not found in system memory.
+```
 
 ```python
 class BIMAutomationDeveloper:
@@ -54,7 +64,7 @@ class BIMAutomationDeveloper:
 
     def solve_engineering_problem(self, task):
         if task == "Manual Repetitive Drafting":
-            return "Hold my coffee, I'm writing a 500-line C# Add-in for this."
+            return "Hold my chai, I'm writing a 500-line C# Add-in for this."
         elif task == "Read 300-Page BIM Standard PDF":
             return "Feeding it to my BIM RAG Assistant... Done in 3 seconds."
         else:
@@ -63,62 +73,79 @@ class BIMAutomationDeveloper:
 
 ---
 
-## 🚀 Featured Engineering & AI Lab
+## ⚔️ Normal BIM Workflow vs. My Automated Matrix
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Engineering Task 🏗️ | The "Old School" Way 😭 | The Devendra Automation Way ⚡ |
+| :--- | :--- | :--- |
+| **Renaming 500 Revit Views** | 4 hours of clicking, crying, and carpal tunnel | **1.2 seconds** via custom PyRevit script |
+| **Checking BIM Standards** | Ctrl+F through a 400-page PDF at 1 AM | Ask my **RAG AI Agent** in plain English |
+| **Clash Detection** | Endless Friday meetings pointing fingers at MEP | Automated **Python + C#** clash-resolver pipeline |
+| **Building Handover** | A dusty box of 2D paper blueprints | Interactive **3D Digital Twin** in the browser |
+| **When Revit Freezes** | Pray to the Autodesk Gods & lose 2 hours of work | Automated background sync + **n8n** alert webhook |
 
-### 🏝️ Juminar Island Digital Twin
-> *"Why visit an island when you can render it in 3D?"*
+---
 
-An interactive **3D Digital-Twin** project exploring how humans can experience, monitor, and understand buildings and infrastructure digitally in real time.
+## 🎮 Interactive Control Panel (Click to Operate!)
 
-🔧 `Digital Twin` • `3D Web` • `Building Intelligence`
+<details>
+<summary><b>🕹️ [MINI-GAME] You found 473 MEP vs. Structural Clashes at 4:59 PM on Friday! What do you do?</b></summary>
+<br/>
 
-[**🌐 Enter the Digital Twin →**](https://github.com/devendragupta-BIM/Juminar-Island-Digital-Twin-002)
+> **Choose your destiny (Click one):**
+> 
+> <details>
+> <summary>👉 <b>Option A:</b> Move the structural columns by 200mm and hope the Structural Engineer doesn't notice.</summary>
+> <br/>
+> 💀 <b>GAME OVER!</b> The building collapsed in the structural analysis model. The Structural Engineer is now chasing you with a steel rebar.
+> </details>
+>
+> <details>
+> <summary>👉 <b>Option B:</b> Blame the Architect, close laptop, and go home.</summary>
+> <br/>
+> 🕵️‍♂️ <b>PLOT TWIST!</b> Classic move, 10/10 for survival, 0/10 for BIM coordination. Monday morning meeting will be spicy.
+> </details>
+>
+> <details>
+> <summary>👉 <b>Option C:</b> Run Devendra's C# + AI Auto-Clash Resolver Script.</summary>
+> <br/>
+> 🏆 <b>VICTORY UNLOCKED!</b> The script rerouted 473 ducts around the beams in 4.2 seconds, updated the IFC file, and sent an automated Slack report via n8n. Enjoy your weekend! 🎉
+> </details>
 
-</td>
-<td width="50%" valign="top">
+</details>
 
-### 🤖 NextBIM (AI meets Revit)
-> *"Hey Revit, model this building while I grab snacks."*
+<details>
+<summary><b>💥 [DIAGNOSTICS] Click here to run a "BIM Clash Detection" on my Brain</b></summary>
+<br/>
 
-AI-assisted BIM automation: bringing natural-language prompts and intelligent LLM workflows straight inside Autodesk Revit. No more hunting through 47 ribbon tabs.
+> **🔍 CLASH REPORT #404:**
+> * **Clash 1:** `Sleep Schedule` clashes with `Just One More Revit API Bug Fix at 2:00 AM` *(Severity: Critical 🚨)*
+> * **Clash 2:** `Architectural Vision` clashes with `Structural Reality` *(Status: Resolved via Python Script ✅)*
+> * **Clash 3:** `Manual Data Entry` clashes with `Devendra's Patience` *(Status: Automated with n8n ⚡)*
 
-🔧 `Revit API` • `LLM Agents` • `C# / Python`
+</details>
 
-[**⚡ Explore NextBIM →**](https://github.com/devendragupta-BIM?tab=repositories)
+<details>
+<summary><b>☢️ [DANGER] Do NOT click this button! It deletes the Central Revit Model!</b></summary>
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img width="280" src="https://media.giphy.com/media/oe33xf3B50fsc/giphy.gif" alt="Explosion" />
+  <h3>💥 BOOM! CENTRAL MODEL PURGED WITHOUT BACKUP! 💥</h3>
+  <p><i>Just kidding! My automated Python script backed up the model to the cloud 0.02 seconds before you clicked this. Your BIM Manager can breathe again. 😮‍💨</i></p>
+</div>
 
-### 📚 BIM RAG Assistant
-> *"CTRL+F on steroids for BIM Managers."*
+</details>
 
-Retrieval-Augmented Generation (RAG) tailored for BIM standards, ISO 19650 docs, and technical specifications. Ask questions, get cited engineering answers instantly.
+<details>
+<summary><b>🧠 [LAB] Secret Blueprints I'm currently cooking...</b></summary>
+<br/>
 
-🔧 `AI / RAG` • `Vector DB` • `Python`
+- 🛡️ **Advanced C# Revit Add-ins:** Multi-threaded, zero-crash model health checkers.
+- 🤖 **Autonomous BIM Agents:** AI agents that coordinate MEP vs. Structural clashes while you grab coffee.
+- 🌐 **OpenBIM & IFC Parsers:** Extracting deep building intelligence without needing expensive software licenses.
+- 🗣️ **Text-to-BIM Generators:** Typing *"Build a 3-story office grid"* and watching Revit model it live.
 
-[**🧠 Ask the AI →**](https://github.com/devendragupta-BIM?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
-
-### ⚙️ Revit Automation Arsenal
-> *"Saving mice from Left-Click Fatigue since day one."*
-
-A collection of custom **PyRevit** tools and **C# Add-ins** designed to nuke repetitive modeling, sheet creation, clash management, and BIM production tasks.
-
-🔧 `PyRevit` • `C# .NET` • `Dynamo`
-
-[**🛠️ Grab the Tools →**](https://github.com/devendragupta-BIM?tab=repositories)
-
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
@@ -146,48 +173,17 @@ A collection of custom **PyRevit** tools and **C# Add-ins** designed to nuke rep
 
 ---
 
-## 🎲 Interactive Fun Zone (Click to Expand!)
-
-<details>
-<summary><b>💥 Click here to run a "BIM Clash Detection" on my Brain</b></summary>
-<br/>
-
-> **🔍 CLASH REPORT #404:**
-> * **Clash 1:** `Sleep Schedule` clashes with `Just One More Revit API Bug Fix at 2:00 AM` *(Severity: Critical 🚨)*
-> * **Clash 2:** `Architectural Vision` clashes with `Structural Reality` *(Status: Resolved via Python Script ✅)*
-> * **Clash 3:** `Manual Data Entry` clashes with `Devendra's Patience` *(Status: Automated with n8n ⚡)*
-
-</details>
-
-<details>
-<summary><b>🧠 What I'm currently cooking in the lab...</b></summary>
-<br/>
-
-- 🛡️ **Advanced C# Revit Add-ins:** Multi-threaded, zero-crash model checkers.
-- 🤖 **Autonomous BIM Agents:** AI agents that coordinate MEP vs. Structural clashes automatically.
-- 🌐 **OpenBIM & IFC Parsers:** Extracting deep building intelligence without needing proprietary software licenses.
-- 🏗️ **3D Digital-Twin Dashboards:** Connecting IoT & live data into 3D web viewers.
-
-</details>
-
-<details>
-<summary><b>🎯 Future Blueprints (What I want to build next)</b></summary>
-<br/>
-
-- 🗣️ Text-to-BIM generators inside Revit.
-- ✅ Automated ISO-19650 compliance & model health checkers.
-- 🌍 Open-source AEC automation libraries so no engineer ever has to manually rename 400 views again.
-
-</details>
-
----
-
-## 📊 3D Telemetry & GitHub Blueprints
+## 📊 3D Telemetry, Trophies & GitHub Blueprints
 
 <div align="center">
 
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=devendragupta-BIM&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+
+<br/><br/>
+
+<!-- Live Streak Counter -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=devendragupta-BIM&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -216,6 +212,9 @@ A collection of custom **PyRevit** tools and **C# Add-ins** designed to nuke rep
 ---
 
 <div align="center">
+
+<!-- Random Dev Joke Generator Card -->
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
 
 ### 🏗️ Tired of clicking buttons like it's 1999? Let's automate the AEC industry together!
 
