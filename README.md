@@ -1,243 +1,252 @@
 <div align="center">
 
-<!-- 3D Animated Waving Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=DEVENDRA%20GUPTA&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BIM%20Automation%20Consultant%20%40%20BMSI%20%7C%20Revit%20API%20Wizard%20%7C%20AI%20for%20AEC&descAlignY=58&descSize=18" />
+```
+██████╗ ███████╗██╗   ██╗███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
+██╔══██╗██╔════╝██║   ██║██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+██║  ██║█████╗  ██║   ██║█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+██║  ██║██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+██████╔╝███████╗ ╚████╔╝ ███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+╚═════╝ ╚══════╝  ╚═══╝  ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<!-- Funny Niche Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=800&color=00F7FF&center=true&vCenter=true&width=880&lines=Turning+3+days+of+manual+Navisworks+RFI+writing+into+3+minutes...;Teaching+Groq+AI+%26+LoRA+models+to+quote+IS+456%3A2000+%26+NBC+2016;Building+PyRevit+tools+so+Electrical+Engineers+stop+crying;Streaming+25+MQTT+IoT+sensors+into+a+Three.js+3D+Digital+Twin;Civil+Engineering+student+who+prefers+Python+over+concrete+mixers" alt="Typing SVG" />
-</a>
+### `BIM Automation Developer` · `Revit API` · `AI for Construction`
 
-<br/>
+*Civil engineering student who got tired of clicking buttons manually —*  
+*so I taught Revit to click them for me.*
 
-<!-- Live Profile Telemetry & Social Badges -->
-<p>
-  <a href="https://github.com/devendragupta-BIM">
-    <img src="https://img.shields.io/badge/GitHub-Explore_The_Blueprints-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/devendra-gupta-b943b4377">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Clash_Detect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:devendragupta56789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send_An_RFI-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=devendragupta-BIM&label=BIM_INSPECTORS&color=00F7FF&style=for-the-badge" alt="Profile Views" />
-</p>
+[![Portfolio](https://img.shields.io/badge/🏗️_Live_Portfolio-View_with_3D_Animations-3b82f6?style=for-the-badge&labelColor=0d1117)](https://claude.ai/artifact/ScG3wXT2hPRTvNe1YGM8hh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-gupta-b943b4377)
+[![Email](https://img.shields.io/badge/Email-devendragupta56789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendragupta56789@gmail.com)
+[![Location](https://img.shields.io/badge/📍_Jamshedpur,_Jharkhand-India-06d6a0?style=for-the-badge)](https://maps.google.com/?q=Jamshedpur,Jharkhand)
 
 </div>
 
 ---
 
-## 👷‍♂️💻 Who is this guy? (The AEC Matrix Edition)
+<img align="right" width="340" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="3D Coding Developer Animation" />
+## 👋 Hey, I'm Devendra
 
-I'm a **Civil Engineering student** at **JUT Ranchi** and a **BIM Automation Consultant at BMSI (Gurugram)** living at the chaotic intersection of **Construction, Software Engineering, and Artificial Intelligence**. 
+```python
+class Devendra:
+    def __init__(self):
+        self.role       = "BIM Automation Developer"
+        self.employer   = "BMSI, Gurugram (Part-time)"
+        self.education  = "B.Tech Civil Engg @ JUT Ranchi (2025–2029)"
+        self.location   = "Jamshedpur, Jharkhand 🇮🇳"
+        self.philosophy = [
+            "If I do it twice, I automate it on the third",
+            "AI writes the RFI, I drink tea and review it",
+            "If Revit can do it in 1 click → 0 clicks"
+        ]
 
-While normal engineers spend 3 days manually writing RFIs from Navisworks clash reports, I build **Python, Revit API, LoRA-tuned AI, and n8n pipelines** that finish the job before my coffee gets cold.
-
-* ⚡ **BIM Automation Consultant @ BMSI:** Building production **Python & PyRevit** suites (Conduit Bend/Spacing Checkers, Excel-to-Schedule) and running BIM QA, LOD checks, and clash detection.
-* 🤖 **Clash-to-RFI AI Pipelines:** Parsing Navisworks XML clash reports, auto-generating RFIs citing **IS 456:2000 & NBC 2016** via **Groq AI + fine-tuned HuggingFace LoRA**, visualizing clashes in **React + Three.js**, and auto-emailing the guilty MEP/Structural engineer via **n8n**.
-* 🏢 **Revit AI Copilot (v0.15):** Built a 30+ feature Copilot inside Revit that converts **2D floor plan images into 3D Revit models**, scores model health out of 100, and routes MEP generative paths.
-* 🌐 **IoT Digital Twins & 2,333-Page RAG:** Streaming **25 live MQTT sensors** with **Isolation Forest** anomaly detection into a **Three.js** G+2 building twin, and querying 2,333 pages of **ISO 19650 & LOD specs** via **LangChain + ChromaDB**.
+    def current_status(self):
+        return "Building things that shouldn't exist yet 🔧"
+```
 
 <br clear="right"/>
 
 ---
 
-## 📟 Live AEC Automation Terminal (`devendra_os v2026.2`)
+## 🚀 What I Actually Do
 
-```diff
-+ [SYSTEM ONLINE] Connected to BMSI Engineering Server & JUT Digital Twin...
-+ [LOADED] Electrical_Automation_Suite.pyrevit ... 100% (Conduit bends & spacing verified!)
-+ [LOADED] Clash_To_RFI_LoRA_Engine.py ........... 100% (12 clashes -> RFIs emailed in 180s)
-+ [LOADED] Revit_AI_Copilot_v0.15.dll ............ 100% (30+ features & 2D-to-3D active)
-+ [LOADED] JUT_Digital_Twin_MQTT.js .............. 100% (25 IoT sensors + Isolation Forest live)
-! [ACHIEVEMENT] 2nd Runner-Up, State-Level AutoCAD Competition (Jharkhand)
-- [ERROR_404] "Manual Excel Data Entry" permanently deleted from workflow.
-```
+> I sit with engineers, watch them do boring repetitive stuff for 20 minutes, then spend a week building a tool that does it in 3 seconds. Everyone's happy.
 
-```python
-class DevendraGupta:
-    def __init__(self):
-        self.role = "BIM Automation Consultant @ BMSI | B.Tech Civil Engg (2025-2029)"
-        self.location = "Jamshedpur / Ranchi / Gurugram"
-        self.arsenal = ["Python", "Revit API", "PyRevit", "Tekla API", "React", "Three.js", "FastAPI"]
-        self.ai_stack = ["Groq AI", "LangChain", "ChromaDB", "HuggingFace (LoRA)", "n8n", "scikit-learn"]
-        self.revit_portfolio = "12 Self-Taught Models (25-Storey High-Rise, 100-Suite Hotel, G+7 RCC)"
-
-    def handle_navisworks_clashes(self, xml_report):
-        # Why take 3 days when Python + Groq + n8n takes 3 minutes?
-        return "Parsed XML -> Quoted IS 456:2000 & NBC 2016 -> Rendered in Three.js -> Emailed Engineer!"
-```
+**Right now at BMSI:**
+- Maintaining an **Electrical Automation Suite (PyRevit)** used by the team daily
+- Building Python + Revit API tools that delete whole categories of manual work
+- Running clash detection, LOD checks and BIM model QA on live projects
 
 ---
 
-## 🧠 How My Autonomous BIM-AI Engine Works
-
-```
-┌─────────────────────────┐      ┌──────────────────────────┐      ┌─────────────────────────┐
-│  1. INPUT SOURCES       │      │  2. AI & PYTHON CORE     │      │  3. AUTOMATED OUTPUT    │
-│  • Navisworks Clash XML │ ───► │  • Python + Revit API    │ ───► │  • Three.js 3D Viewer   │
-│  • 2D Floor Plan Images │      │  • Groq AI + LoRA Model  │      │  • IS 456 / NBC RFIs    │
-│  • 25 MQTT IoT Sensors  │      │  • LangChain + ChromaDB  │      │  • n8n Auto-Emailer     │
-│  • 2,333p ISO 19650 PDF │      │  • Isolation Forest ML   │      │  • 1-Click Revit Add-in │
-└─────────────────────────┘      └──────────────────────────┘      └─────────────────────────┘
-```
-
----
-
-## ⚔️ Traditional BIM vs. My Automated Matrix (Real Benchmarks)
-
-| Engineering Pain Point 🏗️ | The "Old School" Way 😭 | The Devendra Automation Way ⚡ |
-| :--- | :--- | :--- |
-| **12 Navisworks Clashes -> RFIs** | **2–3 Days** of manual screenshots, writing & emailing | **Minutes** via Python + Groq AI + LoRA + n8n + Three.js |
-| **Checking Conduit Bends & Spacing** | Eyeballing conduits in 3D view until your eyes bleed | **1-Click PyRevit Suite** flagging element IDs & clearance violations |
-| **Excel Data to Revit Schedules** | Typing 400 rows manually and making 12 typos | **Instant sync** via custom `Excel-to-Schedule` Revit API tool |
-| **Reading 2,333 Pages of ISO 19650** | Endless Ctrl+F through PDFs at 2:00 AM | Ask my **LangChain + ChromaDB RAG Assistant** in plain English |
-| **2D Floor Plan to 3D BIM** | Hours of tracing walls, doors, and grids | **Revit AI Copilot (v0.15)** converts 2D images to 3D models |
-| **Building Health Monitoring** | Waiting for someone to complain the AC is broken | **Three.js Digital Twin** + 25 MQTT sensors + Isolation Forest AI |
-
----
-
-## 🎮 Interactive BIM Control Panel (Click to Operate!)
-
-<details>
-<summary><b>🕹️ [MINI-GAME] Navisworks just spat out an XML report with 12 critical MEP/Structural clashes! What do you do?</b></summary>
-<br/>
-
-> **Choose your engineering survival strategy (Click one):**
-> 
-> <details>
-> <summary>👉 <b>Option A:</b> Spend your entire weekend writing 12 RFI documents and looking up IS 456:2000 clauses manually.</summary>
-> <br/>
-> 💀 <b>RIP YOUR WEEKEND!</b> It is now Monday morning, you have dark circles under your eyes, and you accidentally sent the Structural RFI to the Plumber.
-> </details>
->
-> <details>
-> <summary>👉 <b>Option B:</b> Run Devendra's <code>Clash-to-RFI Automation System</code>.</summary>
-> <br/>
-> 🏆 <b>FLAWLESS VICTORY!</b> Python extracted the element IDs & grids, your LoRA fine-tuned model + Groq AI wrote the RFIs citing <b>IS 456:2000 & NBC 2016</b>, Three.js highlighted the 3D clashes on the React dashboard, and n8n emailed the exact discipline engineers automatically! 🎉
-> </details>
-
-</details>
-
-<details>
-<summary><b>🤖 [LAUNCH REVIT COPILOT v0.15] Click to execute 30+ AI Features on Active Model</b></summary>
-<br/>
-
-```yaml
-> Executing Revit_AI_Copilot_v0.15...
-  [✔] 2D Floor Plan Image ingested ---------> Converted to 3D Revit Walls, Doors & Grids!
-  [✔] Generative MEP Routing ---------------> Cleared all structural beams with code clearance zones!
-  [✔] Auto-Dimension & Auto-Tag ------------> 142 elements tagged & join geometry cleaned!
-  [✔] Final BIM Model Health Score ---------> 98 / 100 (Ready for ISO 19650 Handover!)
-```
-
-</details>
-
-<details>
-<summary><b>🔌 [BMSI ELECTRICAL SUITE] Click to run <code>Conduit_Diagnostic_Check.pyrevit</code></b></summary>
-<br/>
-
-> **⚡ BMSI ELECTRICAL AUTOMATION REPORT:**
-> * **Conduit Bend Checker:** Scanned 1,420 conduits → `3 bends exceeding max angle flagged (Element IDs exported)` ✅
-> * **Conduit Spacing Checker:** Clearance verified → `0 collisions detected` ✅
-> * **Excel-to-Schedule Engine:** `Built 14 Revit panel schedules from Excel in 0.8 seconds` ✅
-
-</details>
-
-<details>
-<summary><b>🏢 [DIGITAL TWIN LIVE FEED] Ping JUT Civil Dept G+2 Building (25 MQTT Sensors)</b></summary>
-<br/>
-
-> **📡 LIVE MQTT TELEMETRY & ISOLATION FOREST AI:**
-> * **3D Engine:** `Revit G+2 Model -> Rebuilt in Three.js`
-> * **Active Sensors (25):** `Temp: 24.2°C | Humidity: 52% | CO2: 410ppm | Vibration: Normal | Occupancy: 84%`
-> * **Isolation Forest Anomaly Detection:** `0 Structural/Energy Anomalies Detected`
-> * **Live Building Health Score:** `96 / 100` 🟢
-
-</details>
-
-<details>
-<summary><b>🏗️ [REVIT PORTFOLIO] View my 12 Self-Taught BIM Models</b></summary>
-<br/>
-
-- 🏙️ **25-Storey High-Rise Building** (Full architectural & structural BIM)
-- 🏨 **100-Suite Luxury Hotel**
-- 🏢 **G+7 RCC Commercial/Residential Building**
-- 🏠 **G+3 Residence with complete 3D Rebar Detailing**
-- ➕ *...and 8 more production-grade models built from scratch!*
-
-</details>
-
----
-
-## 🧰 My Construction, AI & Code Tech Stack
+## 📊 By The Numbers
 
 <div align="center">
 
-### 💻 Programming, Web & 3D Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,threejs,fastapi,mysql,html,css,git,github,vscode&perline=11" alt="Tech Stack Icons" />
-</p>
-
-### 🏗️ BIM, CAD & Engineering APIs
-<p align="center">
-  <img src="https://img.shields.io/badge/Autodesk_Revit_API-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="Revit API" />
-  <img src="https://img.shields.io/badge/PyRevit-2D6DB5?style=for-the-badge&logo=python&logoColor=white" alt="PyRevit" />
-  <img src="https://img.shields.io/badge/Navisworks-005571?style=for-the-badge&logo=autodesk&logoColor=white" alt="Navisworks" />
-  <img src="https://img.shields.io/badge/Dynamo_BIM-00A98F?style=for-the-badge&logo=autodesk&logoColor=white" alt="Dynamo" />
-  <img src="https://img.shields.io/badge/Tekla_Structures_API-E31837?style=for-the-badge&logo=trimble&logoColor=white" alt="Tekla API" />
-  <img src="https://img.shields.io/badge/AutoCAD_(State_Winner)-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/ISO_19650_%26_4D_BIM-475569?style=for-the-badge&logo=construct3&logoColor=white" alt="ISO 19650" />
-</p>
-
-### 🤖 AI, RAG, IoT & Automation Heavy Machinery
-<p align="center">
-  <img src="https://img.shields.io/badge/Groq_AI-F55036?style=for-the-badge&logo=lightning&logoColor=white" alt="Groq AI" />
-  <img src="https://img.shields.io/badge/LangChain_%26_RAG-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/HuggingFace_(LoRA)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace LoRA" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="ChromaDB" />
-  <img src="https://img.shields.io/badge/n8n_Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/MQTT_%26_Scikit_Learn-660066?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="MQTT IoT" />
-</p>
-
-<!-- Working Top Languages Card (Centered & Clean) -->
-<br/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devendragupta-BIM&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most Used Languages" />
+| Metric | Value |
+|--------|-------|
+| 🤖 Revit AI Copilot features | **30+** |
+| 🏛️ Revit models built (self-taught) | **12** |
+| 📚 Pages in my BIM RAG chatbot | **2,333** |
+| ⚡ Days saved per clash cycle | **2–3 days → minutes** |
+| 📡 IoT sensors in Digital Twin | **25 simulated** |
+| 🏆 State AutoCAD Competition | **2nd Runner-Up, JH 2025** |
 
 </div>
 
 ---
 
-## 🐍 Eating Bugs & Clashes in 3D
+## 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Guaranteed Working Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+**BIM & CAD**
+
+![Revit](https://img.shields.io/badge/Autodesk_Revit-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=flat-square&logo=autodesk&logoColor=white)
+![Navisworks](https://img.shields.io/badge/Navisworks-0696D7?style=flat-square&logo=autodesk&logoColor=white)
+![Dynamo](https://img.shields.io/badge/Dynamo-3A86FF?style=flat-square&logoColor=white)
+![PyRevit](https://img.shields.io/badge/PyRevit-306998?style=flat-square&logo=python&logoColor=white)
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white)
+
+**3D & IoT**
+
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</div>
+
+---
+
+## 🔥 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ⚡ Clash-to-RFI Automation System
+`Python` `Groq AI` `n8n` `React` `Three.js` `LoRA`
+
+Navisworks gives me an XML clash report. My system reads it, routes each clash by discipline, has AI write a proper RFI citing **IS 456:2000 and NBC 2016**, and emails it to the right engineer — automatically.
+
+**2–3 days of manual work → a few minutes.**
+
+Also: 3D clash dashboard in React + Three.js. Fine-tuned a model on real BIM RFI documents using LoRA and pushed it to HuggingFace Hub.
+
+</td>
+<td width="50%">
+
+### 🔌 Electrical Automation Suite (PyRevit)
+`PyRevit` `Revit API` `Python` `Excel`
+
+Three tools, used by BMSI's electrical team **every single day:**
+
+- **Conduit Bend Checker** — flags bends above allowed angle, lists element IDs
+- **Conduit Spacing Checker** — highlights clearance violations
+- **Excel-to-Schedule** — builds a Revit schedule from a spreadsheet. No manual entry. No mistakes.
+
+Not a demo. In production.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 AI Copilot for Revit (v0.15)
+`Python` `Revit API` `Generative AI`
+
+30+ features living **inside Revit itself:**
+- Model health score out of 100
+- One-click clash fix + smart renumbering
+- Auto-dimension, auto-tag, auto-join cleanup
+- Generative MEP routing
+- Code-based clearance zones
+- **Converts 2D floor plan images → 3D Revit models**
+
+Autodesk did not expect this.
+
+</td>
+<td width="50%">
+
+### 🏢 AI Digital Twin Dashboard
+`React` `Three.js` `Python` `scikit-learn` `MQTT`
+
+G+2 building modeled in Revit, rebuilt in Three.js. 25 simulated IoT sensors (temperature, CO₂, vibration, energy, occupancy) sending data over MQTT. Isolation Forest anomaly detection with live alerts. Natural-language query box.
+
+JUT Civil Department asked for it. I said sure.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📚 BIM AI Assistant (RAG)
+`LangChain` `ChromaDB` `Groq` `Streamlit`
+
+Answers questions from **ISO 19650, LOD Specification, Revit and Navisworks guides** — 2,333 pages ingested. Engineers can upload their own project PDFs too, stored locally. Nobody has to dig through PDF manuals anymore.
+
+</td>
+<td width="50%">
+
+### 📐 Revit Portfolio — 12 Models
+`Autodesk Revit` `LOD` `Rebar Detailing`
+
+Everything self-taught. Everything to spec:
+- 25-storey high-rise
+- 100-suite hotel
+- G+7 RCC building
+- G+3 house with full rebar detailing
+- ...and more
+
+Sometimes you just have to go build things.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 The 3D Interactive Experience
+
+The README can only do so much. For the full thing — rotating 3D building, live clash visualizer, orbiting tech stack, particle network — hit the portfolio:
+
+<div align="center">
+
+[![Open Full Portfolio](https://img.shields.io/badge/🏗️_Open_Full_Portfolio_with_3D_Animations-→-3b82f6?style=for-the-badge&labelColor=0d1117&color=3b82f6)](https://claude.ai/artifact/ScG3wXT2hPRTvNe1YGM8hh)
+
+*Interactive 3D rotating building · Live clash visualizer with hover tooltips*  
+*Orbiting tech stack · Particle network background · Full dark-mode design*
+
+</div>
+
+---
+
+## 🌱 Currently
+
+```
+📍 Jamshedpur → Gurugram (remote/part-time)
+🎓 B.Tech Civil Engineering, JUT Ranchi — 2025–2029
+💼 BIM Automation Consultant @ BMSI
+🔧 Building: things that make engineers go "wait this actually works?"
+📬 Open to: collabs, freelance BIM automation, anything interesting
+```
+
+---
+
+## 📬 Reach Me
+
+<div align="center">
+
+**If you've got a repetitive BIM workflow, I've probably already thought about automating it.**
+
+[![Email](https://img.shields.io/badge/Email-devendragupta56789@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devendragupta56789@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Devendra_Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devendra-gupta-b943b4377)
+[![Phone](https://img.shields.io/badge/WhatsApp-+91_91425_77715-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919142577715)
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🏗️ Tired of spending 3 days writing RFIs? Let's automate your BIM workflow!
+*Built automation tools at 19. Still figuring out how to make tea properly.*
 
-<p>
-  <a href="https://github.com/devendragupta-BIM?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_Explore_All_Repositories-00F7FF?style=for-the-badge&logoColor=black" alt="Repositories" />
-  </a>
-  <a href="https://linkedin.com/in/devendra-gupta-b943b4377">
-    <img src="https://img.shields.io/badge/🤝_Hire_or_Collaborate-7C3AED?style=for-the-badge&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
-<!-- 3D Animated Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+![Profile Views](https://komarev.com/ghpvc/?username=devendra-gupta&color=3b82f6&style=flat-square&label=Profile+Views)
 
 </div>
